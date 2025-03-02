@@ -8,12 +8,12 @@ Hi, I'm Holwzz!
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">👨🏻‍💻 &nbsp;About Me</h2></summary>
+    <summary><h2 style="display: inline-block">👨🏻‍💻 &nbsp;Sobre mi</h2></summary>
   </ul>
 </div>
 
 💡 &nbsp;Me gusta mucho el sector de la ciberseguridad, centralizado actualmente en el pentesting.\
-🎓 &nbsp;Actualmente estoy estudiando una FP superior de Administracion en Sistemas y Redes en perfil de Ciberseguridad, continuare mis estudios con una Ingenieria en Ciberseguridad en la UB.\
+🎓 &nbsp;Actualmente estoy estudiando una FP superior de Administracion en Sistemas y Redes en perfil de Ciberseguridad.\
 🌱 &nbsp;Estoy en constante aprendizaje sobre nuevas tecnologías, mi objectivo es a aprender a automatizar las tareas de seguridad en una empresa.\
 ✍️ &nbsp;En mi tiempo libre intento sacarme certificados y practicar mis habilidades.\
 💬 &nbsp;Siempre estoy abierto a colaborar y compartir conocimientos.\
@@ -24,13 +24,13 @@ Hi, I'm Holwzz!
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologias que uso💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=kali,linux,windows,python,bash,js,html,css,bootstrap,vscode,mysql&perline=14" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@ Hi, I'm Holwzz!
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">🤝🏻 &nbsp;Connect with Me</h2></summary>
+    <summary><h2 style="display: inline-block">🤝🏻 &nbsp;Contacta conmigo</h2></summary>
   </ul>
 </div>
 
