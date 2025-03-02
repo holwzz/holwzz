@@ -13,6 +13,7 @@
 ✉️ &nbsp;Puedes escribirme a través de mi correo electrónico: skiirr75@gmail.com.\
 📄 &nbsp;En un futuro pondre el enlace a mi CV 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -31,6 +32,8 @@
 #### Herramientas de Productividad:
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,)](https://skillicons.dev)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -39,6 +42,8 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=holwzz&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
