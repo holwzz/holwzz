@@ -1,4 +1,3 @@
-
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm holwzz</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm  holwzz -->
@@ -17,20 +16,28 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/DPPxWpJ1/Black-Arch-logo.png" alt="Black-Arch-logo" border="0"></a>
 
 ### 🛠 &nbsp;Tech Stack
-#### Lenguajes de Programación y Scripting:
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,bash,js,)](https://skillicons.dev)
 
-#### Herramientas de Seguridad:
-[![My Skills](https://skillicons.dev/icons?i=kali,)](https://skillicons.dev)
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <h4>Lenguajes de Programación y Scripting:</h4>
+    [![My Skills](https://skillicons.dev/icons?i=python,mysql,bash,js,)](https://skillicons.dev)
 
-#### Administración de Sistemas:
-[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+    <h4>Herramientas de Seguridad:</h4>
+    [![My Skills](https://skillicons.dev/icons?i=kali,)](https://skillicons.dev)
 
-#### Desarrollo Web y DevOps:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
+    <h4>Administración de Sistemas:</h4>
+    [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
-#### Herramientas de Productividad:
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,)](https://skillicons.dev)
+    <h4>Desarrollo Web y DevOps:</h4>
+    [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
+
+    <h4>Herramientas de Productividad:</h4>
+    [![My Skills](https://skillicons.dev/icons?i=visualstudio,)](https://skillicons.dev)
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://i.ibb.co/DPPxWpJ1/Black-Arch-logo.png" alt="Black-Arch-logo" width="200">
+  </div>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -51,5 +58,4 @@
 <a href="mailto:skiirr75@gmail.com"><img src="https://img.shields.io/badge/-skiirr75@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/holwz_"><img src="https://img.shields.io/badge/-@holwz_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-
 
