@@ -6,8 +6,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Me gusta mucho el sector de la ciberseguridad, centralizado actualmente en el pentesting.\
-🎓 &nbsp;Actualmente estoy estudiando una FP superior de Administracion en Sistemas y Redes en perfil de Ciberseguridad, continuare mis estudios con una Ingenieria en Ciberseguridad en la UB.\
-🌱 &nbsp;Estoy en constante aprendizaje sobre nuevas tecnologías, mi objectivo es a aprender a automatizar las tareas de seguridad en una empresa, tambien aprender como crear una estrategiay estructura de seguridad en una empresa .\
+🎓 &nbsp;Actualmente estoy estudiando una FP superior de Administracion en Sistemas y Redes en perfil de Ciberseguridad, continuare mis estudios con una Ingenieria en 
+          Ciberseguridad en la UB.\
+🌱 &nbsp;Estoy en constante aprendizaje sobre nuevas tecnologías, mi objectivo es a aprender a automatizar las tareas de seguridad en una empresa, tambien aprender 
+          como crear una estrategiay estructura de seguridad en una empresa .\
 ✍️ &nbsp;En mi tiempo libre intento sacarme certificados y practicar mis habilidades.\
 💬 &nbsp;Siempre estoy abierto a colaborar y compartir conocimientos.\
 ✉️ &nbsp;Puedes escribirme a través de mi correo electrónico: skiirr75@gmail.com.\
