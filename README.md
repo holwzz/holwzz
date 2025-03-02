@@ -15,7 +15,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/DPPxWpJ1/Black-Arch-logo.png" alt="Black-Arch-logo" border="0"></a>
 
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
@@ -30,13 +29,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">⚙️ &nbsp;GitHub Analytics</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+<!--Analitica-->
 <p align="center">
 <p align="center">
 <a href="https://github.com/holwzz">
@@ -47,7 +45,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### 🤝🏻 &nbsp;Connect with Me
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🤝🏻 &nbsp;Connect with Me</h2></summary>
+  </ul>
+</div>
 
 <p align="center">
 <a href="mailto:skiirr75@gmail.com"><img src="https://img.shields.io/badge/-skiirr75@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
