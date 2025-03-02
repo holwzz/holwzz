@@ -30,8 +30,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### ⚙️ &nbsp;GitHub Analytics
-
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">⚙️ &nbsp;GitHub Analytics</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
 <p align="center">
 <a href="https://github.com/holwzz">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=holwzz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
