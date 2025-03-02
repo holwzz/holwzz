@@ -1,18 +1,17 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm holwzz</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<!-- ## 👋 &nbsp;Hey there! I'm  holwzz -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;Me gusta mucho el sector de la ciberseguridad, centralizado actualmente en el pentesting.\
+🎓 &nbsp;Actualmente estoy estudiando una FP superior de Administracion en Sistemas y Redes en perfil de Ciberseguridad, continuare mis estudios con una Ingenieria en Ciberseguridad en la UB.\
+🌱 &nbsp;Estoy en constante aprendizaje sobre nuevas tecnologías, mi objectivo es a aprender a automatizar las tareas de seguridad en una empresa, tambien aprender como crear una estrategiay estructura de seguridad en una empresa .\
+✍️ &nbsp;En mi tiempo libre intento sacarme certificados y practicar mis habilidades.\
+💬 &nbsp;Siempre estoy abierto a colaborar y compartir conocimientos.\
+✉️ &nbsp;Puedes escribirme a través de mi correo electrónico: skiirr75@gmail.com.\
+📄 &nbsp;En un futuro pondre el enlace a mi CV 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
