@@ -16,19 +16,19 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
-Lenguajes de Programación y Scripting:
+#### Lenguajes de Programación y Scripting:
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,bash,js,)](https://skillicons.dev)
 
-Herramientas de Seguridad:
+#### Herramientas de Seguridad:
 [![My Skills](https://skillicons.dev/icons?i=kali,)](https://skillicons.dev)
 
-Administración de Sistemas:
+#### Administración de Sistemas:
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
-Desarrollo Web y DevOps:
+#### Desarrollo Web y DevOps:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
 
-Herramientas de Productividad:
+#### Herramientas de Productividad:
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,)](https://skillicons.dev)
 
 ### ⚙️ &nbsp;GitHub Analytics
